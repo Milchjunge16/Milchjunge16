@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **milchjunge16@gmail.com**
 
-- 📄 Know about my experiences [Cybersec](Cybersec)
+- 📄 I have my experiences in CyberSecurity
 
 - ⚡ Fun fact **I love pizza**
 
