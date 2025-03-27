@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milchjunge</h1>
 <h3 align="center">Readme about me :D</h3>
 
-- 🌱 I’m currently learning **Python, MySQL, C/C++**
+- 🌱 I’m currently learning **MySQL, C/C++**
 
 - 📫 How to reach me **milchjunge16@gmail.com**
 
