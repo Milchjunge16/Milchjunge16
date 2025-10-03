@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **MySQL, C/C++**
 
-- 📫 How to reach me **milchjunge16@gmail.com**
-
 - 📄 I have my experiences in CyberSecurity
 
 - ⚡ Fun fact **I love pizza**
